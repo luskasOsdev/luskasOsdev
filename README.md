@@ -1,4 +1,4 @@
-# 👋 ʜᴇʟʟᴏ, ɪ'ᴍ **lucas or luk**!
+# 👋 ʜᴇʟʟᴏ, ɪ'ᴍ **ʟᴜᴄᴀꜱ ᴏʀ ʟᴜᴋ**!
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2500&color=228B22&center=false&vCenter=true&lines=Aspiring+Software+Engineer;Aspiring+Hardware+Engineer;Aspiring+Cybersecurity+%2F+Ethical+Hacker;Creator+of+the+Future+MaestralOS" alt="Typing SVG" />
