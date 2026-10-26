@@ -43,7 +43,7 @@ I am expanding my knowledge to achieve my professional goals:
 - **ᴍʏ ʟᴀɴɢᴜᴀɢᴇ (ʜᴀʀᴅ++):** Create a revolutionary language even lower-level than Assembly called **Hard++**.
 
 #### 🔒 ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ & ʜᴀᴄᴋɪɴɢ
-[![ASSEMBLY](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![NASM](https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![RISC-V](https://img.shields.io/badge/RiscV-003262?style=for-the-badge&logo=RiscV&logoColor=white)](https://github.com)
+[![ASSEMBLY](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![NASM](https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![RISC-V](https://img.shields.io/badge/RISC-V-003262?style=for-the-badge&logo=RiscV&logoColor=white)](https://github.com)
 - ᴀssᴇᴍʙʟʏ, ɴᴀsᴍ & ʀɪꜱᴄ-ᴠ *(Fundamental for reverse engineering, low-level analysis, and direct hardware interactions)*
 - *Advanced concepts in Networking, Operating Systems, and Offensive Security.*
 
